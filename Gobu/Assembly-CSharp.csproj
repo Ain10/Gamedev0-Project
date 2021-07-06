@@ -79,6 +79,7 @@
     <Compile Include="Assets\Scripts\Player\PlayerAttack.cs" />
     <Compile Include="Assets\Samples\Cinemachine\2.8.0-pre.1\Cinemachine Example Scenes\Shared\Scripts\SimpleElevator.cs" />
     <Compile Include="Assets\Samples\Cinemachine\2.8.0-pre.1\Cinemachine Example Scenes\Scenes\FadeOutNearbyObjects\CinemachineFadeOutNearbyObjects.cs" />
+    <Compile Include="Assets\Building Script\EnemyBaseScript.cs" />
     <Compile Include="Assets\Samples\Cinemachine\2.8.0-pre.1\Cinemachine Example Scenes\Scenes\Anywhere Door\PlayerMovement.cs" />
     <Compile Include="Assets\Samples\Cinemachine\2.8.0-pre.1\Cinemachine Example Scenes\Shared\Scripts\ThirdPersonFollowDistanceModifier.cs" />
     <Compile Include="Assets\Samples\Cinemachine\2.8.0-pre.1\Cinemachine Example Scenes\Scenes\3rdPersonWithAimMode\ActivateOnKeypress.cs" />
@@ -106,6 +107,7 @@
     <Compile Include="Assets\Samples\Cinemachine\2.8.0-pre.1\Cinemachine Example Scenes\Shared\Models\UnityCharacter\Scripts\CharacterMovement.cs" />
     <Compile Include="Assets\Scripts\ButtonScripts\showUnits.cs" />
     <Compile Include="Assets\Samples\Cinemachine\2.8.0-pre.1\Cinemachine Example Scenes\Shared\Models\UnityCharacter\Scripts\CharacterMovementNoCamera.cs" />
+    <Compile Include="Assets\Scripts\Player\Abilities.cs" />
     <Compile Include="Assets\Samples\Cinemachine\2.8.0-pre.1\Cinemachine Example Scenes\Shared\Scripts\ActivateCamOnPlay.cs" />
     <Compile Include="Assets\Samples\Cinemachine\2.8.0-pre.1\Cinemachine Example Scenes\Scenes\DualTarget\PointAtAimTarget.cs" />
     <Compile Include="Assets\Samples\Cinemachine\2.8.0-pre.1\Cinemachine Example Scenes\Scenes\BossCamera\BossLookAt.cs" />
@@ -113,8 +115,7 @@
     <Compile Include="Assets\Samples\Cinemachine\2.8.0-pre.1\Cinemachine Example Scenes\Shared\Scripts\ActivateCameraWithDistance.cs" />
     <Compile Include="Assets\Samples\Cinemachine\2.8.0-pre.1\Cinemachine Example Scenes\Scenes\Anywhere Door\TagChanger.cs" />
     <Compile Include="Assets\Scripts\Enemies\EnemyAttack.cs" />
-    <Compile Include="Assets\Scripts\Player\Abilities.cs" />
-    <Compile Include="Assets\Building Script\EnemyBaseScript.cs" />
+    <Compile Include="Assets\Scripts\Allies\AllySpawnerScript.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Samples\Cinemachine\2.8.0-pre.1\Cinemachine Example Scenes\Scenes\FadeOutNearbyObjects\FadeOut.shader" />

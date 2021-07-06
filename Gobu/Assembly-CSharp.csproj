@@ -97,6 +97,7 @@
     <Compile Include="Assets\Samples\Cinemachine\2.8.0-pre.1\Cinemachine Example Scenes\Scenes\2D\LoseSightWhenTargetsFallsOffThePlatform.cs" />
     <Compile Include="Assets\Samples\Cinemachine\2.8.0-pre.1\Cinemachine Example Scenes\Scenes\2D\MouseScrollZoom2D.cs" />
     <Compile Include="Assets\Samples\Cinemachine\2.8.0-pre.1\Cinemachine Example Scenes\Shared\Scripts\MixingCameraBlend.cs" />
+    <Compile Include="Assets\Scripts\Allies\AllySpawnerScript.cs" />
     <Compile Include="Assets\Samples\Cinemachine\2.8.0-pre.1\Cinemachine Example Scenes\Scenes\CameraMagnets\CameraMagnetProperty.cs" />
     <Compile Include="Assets\Samples\Cinemachine\2.8.0-pre.1\Cinemachine Example Scenes\Shared\Scripts\SpawnInCircle.cs" />
     <Compile Include="Assets\Samples\Cinemachine\2.8.0-pre.1\Cinemachine Example Scenes\Shared\Scripts\PlayerMoveOnSphere.cs" />
@@ -115,7 +116,6 @@
     <Compile Include="Assets\Samples\Cinemachine\2.8.0-pre.1\Cinemachine Example Scenes\Shared\Scripts\ActivateCameraWithDistance.cs" />
     <Compile Include="Assets\Samples\Cinemachine\2.8.0-pre.1\Cinemachine Example Scenes\Scenes\Anywhere Door\TagChanger.cs" />
     <Compile Include="Assets\Scripts\Enemies\EnemyAttack.cs" />
-    <Compile Include="Assets\Scripts\Allies\AllySpawnerScript.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Samples\Cinemachine\2.8.0-pre.1\Cinemachine Example Scenes\Scenes\FadeOutNearbyObjects\FadeOut.shader" />
